@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+
+    <link rel="stylesheet" href="/style.a545e399.css">
+    <script defer="" src="/script.ac63f54b.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>TO DO LIST</h1>
+        <img class="logo" src="/logo.cc5fa439.svg" alt="">
+      </header>
+
+      <section class="insert">
+        <form action="" class="form">
+          <label for="input-task">Task&nbsp;&nbsp;: </label>
+          <input type="text" class="input-task">
+          <img class="enter" src="/enter.6af141ff.svg" alt="">
+        </form>
+      </section>
+
+      <section class="display"></section>
+
+      <section class="empty">No tasks found ! Add some tasks 😀😀 !</section>
+    </div>
+  </body>
+</html>
