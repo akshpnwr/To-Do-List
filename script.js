@@ -27,6 +27,8 @@ class ToDoList {
   _loadTask() {
     if (!localStorage.getItem('tasks')) return;
 
+    document.querySelector('.empty').classList.add('hidden');
+
     this._storedTasks = localStorage.getItem('tasks').split(',');
 
     this._storedTasks.forEach((task) => {
@@ -36,6 +38,8 @@ class ToDoList {
   }
 
   _insertTask(task) {
+    document.querySelector('.empty').classList.add('hidden');
+
     if (!task) return;
 
     this._task = task;
@@ -44,6 +48,9 @@ class ToDoList {
     localStorage.setItem('tasks', this._storedTasks);
 
     this._insertHtml();
+
+    this._inputTask.value = '';
+    this._inputTask.blur();
   }
 
   _deleteTask(e) {
@@ -59,6 +66,9 @@ class ToDoList {
 
     localStorage.setItem('tasks', this._storedTasks);
     task.remove();
+
+    if (this._storedTasks.length === 0)
+      document.querySelector('.empty').classList.remove('hidden');
   }
 
   _insertHtml() {

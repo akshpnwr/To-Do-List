@@ -112,4 +112,13 @@ img {
   letter-spacing: 0.1em;
   margin: 0 1em;
 }
+
+.empty {
+  margin-top: 8em;
+  text-align: center;
+}
+
+.hidden {
+  display: none;
+}
 /*# sourceMappingURL=style.css.map */
