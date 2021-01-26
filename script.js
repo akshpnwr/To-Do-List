@@ -90,4 +90,6 @@ class ToDoList {
   }
 }
 
-const list = new ToDoList();
+document.addEventListener('load', function () {
+  const list = new ToDoList();
+});
