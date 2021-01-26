@@ -109,7 +109,7 @@
 102D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\@iarna\toml\lib\parser-debug.js121436361000000000 0
 84D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\shebang-regex132561255185480089 1
 116D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\caniuse-lite\data\features\rest-parameters.js121436361000000000 0
-62D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist132561507847277374 1
+62D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist132561261674805454 1
 83D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\setimmediate132561255183928171 1
 96D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\http-signature\CHANGES.md131480975920000000 0
 85D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\is-nan\.github132561254535835852 1
@@ -1149,7 +1149,7 @@
 87D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\coa\lib\shell.js121436361000000000 0
 101D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\@parcel\watcher\src\Watcher.cc121436361000000000 0
 84D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\node-releases132561254580819735 1
-73D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\index.html132561507846878507 0
+73D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\index.html132561261674725483 0
 112D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\@parcel\transformer-inline-string\LICENSE121436361000000000 0
 123D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\regenerate-unicode-properties\Script\Meetei_Mayek.js121436361000000000 0
 95D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\resolve\test\symlinks.js121436361000000000 0
@@ -3798,7 +3798,7 @@
 108D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\serialize-to-js\lib\internal\utils.js121436361000000000 0
 82D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\request\lib132561254284062114 1
 129D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\util.promisify\node_modules\es-abstract\2018\DateString.js121436361000000000 0
-81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\script.ac63f54b.js132561507847056246 0
+81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\script.ac63f54b.js132561261674725483 0
 102D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\posthtml-parser\.idea\jsLinters132561254417915365 1
 122D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\util.promisify\node_modules\es-abstract\2018\Day.js121436361000000000 0
 127D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\jsdom\lib\jsdom\living\generated\HTMLDirectoryElement.js121436361000000000 0
@@ -13705,7 +13705,7 @@
 105D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\cosmiconfig\dist\createExplorer.js121436361000000000 0
 111D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\core-js\stable\array\virtual\index-of.js121436361000000000 0
 108D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\cosmiconfig\dist\getPropertyByPath.js121436361000000000 0
-85D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\script.ac63f54b.js.map132561507847277374 0
+85D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\script.ac63f54b.js.map132561261674725483 0
 98D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\cosmiconfig\dist\loaders.js121436361000000000 0
 116D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\caniuse-lite\data\features\css-text-indent.js121436361000000000 0
 95D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\core-util-is\float.patch130924525990000000 0
@@ -17329,11 +17329,11 @@
 84D:\akash\Projects\Front end projects\JavaScipt\To Do List\node_modules\.bin\sass.ps1132561257424008229 0
 82D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\delete.41bd9081.svg132561258695949181 0
 81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\enter.04ac186d.svg132561261362647946 0
-81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\enter.6af141ff.svg132561507760985302 0
-80D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\logo.cc5fa439.svg132561507760328241 0
+81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\enter.6af141ff.svg132561261669911120 0
+80D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\logo.cc5fa439.svg132561261669831142 0
 81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\script.f62a1ac0.js132561261440347077 0
-81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\style.a545e399.css132561507846878507 0
-85D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\style.a545e399.css.map132561507847136582 0
+81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\style.a545e399.css132561261674725483 0
+85D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\style.a545e399.css.map132561261674725483 0
 81D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\style.cae5246a.css132561261440347077 0
 85D:\akash\Projects\Front end projects\JavaScipt\To Do List\dist\style.cae5246a.css.map132561261440387068 0
 71D:\akash\Projects\Front end projects\JavaScipt\To Do List\css\style.css132561249983828924 0

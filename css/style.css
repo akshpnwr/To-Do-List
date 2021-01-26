@@ -22,7 +22,6 @@ img {
 }
 
 .container {
-  min-width: 500px;
   width: 60%;
   margin: 2em auto;
 }
@@ -121,12 +120,5 @@ img {
 
 .hidden {
   display: none;
-}
-
-@media (max-width: 600px) {
-  .container {
-    min-width: 0px;
-    width: 90%;
-  }
 }
 /*# sourceMappingURL=style.css.map */
